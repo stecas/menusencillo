@@ -19,14 +19,6 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6</generator>
-
-<image>
-	<url>https://stecas.github.io/menusencillo/wp-content/uploads/2024/07/elementor/thumbs/sc-informatica-qreoir9orornoeh9jsomo9naoz0taeermwyyeh4ejy.png</url>
-	<title>Uncategorized &#8211; Menu Sencillo</title>
-	<link>https://stecas.github.io/menusencillo/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://stecas.github.io/menusencillo/hello-world/</link>
