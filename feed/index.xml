@@ -8,17 +8,18 @@
 	>
 
 <channel>
-	<title>Menu Sencillo</title>
-	<atom:link href="https://stecas.github.io/menusencillo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://stecas.github.io/menusencillo/</link>
+	<title></title>
+	<atom:link href="https://github.com/stecas/personal-site/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/stecas/personal-site/</link>
 	<description></description>
-	<lastBuildDate>Sat, 20 Jul 2024 14:39:07 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Aug 2024 15:45:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.1</generator>
+<<<<<<< Updated upstream
 	<item>
 		<title>Hello world!</title>
 		<link>https://stecas.github.io/menusencillo/hello-world/</link>
@@ -40,4 +41,7 @@
 		
 			</item>
 	</channel>
+=======
+</channel>
+>>>>>>> Stashed changes
 </rss>
